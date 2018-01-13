@@ -1,0 +1,10 @@
+Instructions for using flashcard program
+
+0) compile files. Run main class Leitner.java
+1) Enter your name
+2) Enter Flashcard.txt
+3) Enter study
+4) Type the number (word form) into the command prompt and press enter.
+5) Repeat step 4 as many times as you would like
+6) Press the "%" to flip the card over
+7) Type "!exit" to terminate the program
